@@ -1,0 +1,7 @@
+C:\Users\anton\source\repos\HomeWork8\HomeWork9(2)\obj\Debug\HomeWork9(2).csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\HomeWork8\HomeWork9(2)\obj\Debug\HomeWork9(2).csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\HomeWork8\HomeWork9(2)\bin\Debug\HomeWork9(2).exe.config
+C:\Users\anton\source\repos\HomeWork8\HomeWork9(2)\bin\Debug\HomeWork9(2).exe
+C:\Users\anton\source\repos\HomeWork8\HomeWork9(2)\bin\Debug\HomeWork9(2).pdb
+C:\Users\anton\source\repos\HomeWork8\HomeWork9(2)\obj\Debug\HomeWork9(2).exe
+C:\Users\anton\source\repos\HomeWork8\HomeWork9(2)\obj\Debug\HomeWork9(2).pdb
